@@ -62,7 +62,7 @@ If you like the concept of a giant, general-purpose playbooks, but you don't
 necessarily like this particular implementation, I suggest that you check out
 other similar projects:
 
-- [al3x/sovereign](https://github.com/al3x/sovereign): an orginal inspiration
+- [al3x/sovereign](https://github.com/al3x/sovereign): an original inspiration
   for DebOps, playbook with multiple services focused on privacy and personal
   freedom. Based on [Debian 7](https://www.debian.org/releases/wheezy/)
 
